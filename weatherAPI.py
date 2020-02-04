@@ -33,9 +33,9 @@ def weather_data_download(id, country):
 
   print (Json_data)
 
-def main():
-  weather_data_download((42.3656,71.0096),"us")
+# def main():
+#   weather_data_download((42.3656,71.0096),"us")
 
-if __name__ == '__main__':
-  main()
+# if __name__ == '__main__':
+#   main()
   
